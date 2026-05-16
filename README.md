@@ -1,7 +1,24 @@
-# Sample Hardhat 3 Beta Project (minimal)
+# Blockchain Voting dApp
 
-This project has a minimal setup of Hardhat 3 Beta, without any plugins.
+This project is a decentralized voting application (dApp) built on Ethereum using Solidity smart contracts, Hardhat, React, ethers.js, and MetaMask.
 
-## What's included?
+## Features
 
-The project includes native support for TypeScript, Hardhat scripts, tasks, and support for Solidity compilation and tests.
+- Connect MetaMask wallet
+- Vote securely on blockchain
+- Live vote count updates
+- Smart contract powered voting
+- One wallet = one vote
+
+## Tech Stack
+
+- Solidity
+- Hardhat
+- React + Vite
+- ethers.js
+- MetaMask
+- JavaScript
+
+## Project Purpose
+
+This project was built as a hands-on Web3 learning project to understand blockchain development, smart contracts, frontend integration, and MetaMask interaction.
